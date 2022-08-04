@@ -1,12 +1,14 @@
-html {margin:50px;
-  padding: 100px;
-  font-family: 'Arial Black', cursive;
+header div, main div, footer  div {
+  width: 800px;
+  margin: auto;
+  padding: 20px;}
+
+html {font-family: 'Arial Black', cursive;
   color: darkgoldenrod;
   font-size:35px;
   text-align:center;
   background-color:lightgoldenrodyellow;}
-h2,h3,h4 {margin:100px;
-  padding-left:150px;
+h2,h3,h4 {
   font-family: Rockwell;
   color: maroon;
   font-size: 35px; 
