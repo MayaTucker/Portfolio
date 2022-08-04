@@ -29,7 +29,7 @@ a:active  {color: black;}
 footer{ font-size:25px;
   font-family:'Arial Black';
   background-color: lightgrey;
-  margin: 200px 0 0 0;
-  padding 20px 0;}
+  margin: 200px;
+  padding 20px;}
 
-hr {height:32px;}
+
