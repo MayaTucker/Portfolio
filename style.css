@@ -1,21 +1,21 @@
 html {font-family: 'Arial Black', cursive;
   color: darkgoldenrod;
-  font-size:25px;
+  font-size:35px;
   text-align:center;
   background-color:lightgoldenrodyellow;}
 h2,h3,h4 {font-family: Rockwell;
   color: maroon;
-  font-size: 25px; 
+  font-size: 35px; 
   text-align:center;
   font-style:italic;
   text-decoration: underline;}
 
 p,li {font-family:'Times New Roman';
   color: black;
-  font-size:18px;
+  font-size:28px;
   text-align:left;}
 
 a:link    { color: yellowgreen;  }
 a:visited { color:black ;   }
-a:hover   { color: yellow; }
+a:hover   { color: gold; }
 a:active  { color: black;  }
