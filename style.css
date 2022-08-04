@@ -35,4 +35,5 @@ footer{ font-size:15px;
   margin: 200px;
   padding 20px;}
 
-footer div {background-color: lightgrey;}
+footer div {background-color: lightgrey;
+  width:800px}
