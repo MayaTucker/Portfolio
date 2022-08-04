@@ -26,10 +26,9 @@ a:visited {color:black;}
 a:hover   {color: gold; }
 a:active  {color: black;}
 
-footer{ font-size:25px;
+footer{ font-size:15px;
   font-family:'Arial Black';
-  background-color: lightgrey;
   margin: 200px;
   padding 20px;}
 
-
+footer div {background-color: lightgrey;}
