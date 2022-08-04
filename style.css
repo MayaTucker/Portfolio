@@ -1,4 +1,6 @@
-html {font-family: 'Arial Black', cursive;
+html {margin:50px;
+  padding: 100px;
+  font-family: 'Arial Black', cursive;
   color: darkgoldenrod;
   font-size:35px;
   text-align:center;
