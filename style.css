@@ -1,5 +1,5 @@
 header div, main div, footer  div {
-  width: 800px;
+  width: 600px;
   margin: auto;
   padding: 20px;}
 
@@ -21,10 +21,15 @@ p,li {font-family:'Times New Roman';
   font-size:28px;
   text-align:left;}
 
-a:link    { color: yellowgreen;  }
-a:visited { color:black ;   }
-a:hover   { color: gold; }
-a:active  { color: black;  }
+a:link    {color: yellowgreen;}
+a:visited {color:black;}
+a:hover   {color: gold; }
+a:active  {color: black;}
 
 footer{ font-size:25px;
   font-family:'Arial Black';
+  background-color: lightgrey;
+  margin: 200px 0 0 0;
+  padding 20px 0;}
+
+hr {height:32px;}
