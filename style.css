@@ -19,8 +19,9 @@ html {font-family: 'Arial Black', cursive;
   font-style:italic;
     text-decoration: underline;}
 
-  h4 {margin: 10px 50px 20px;
-  font-family:Rockwell;
+  h4 {margin-right:10%;
+    margin-left:20%;
+  font-family:'Times New Roman';
   font-size:25px;
   text-align:left;}
 
