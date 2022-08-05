@@ -19,12 +19,12 @@ html {font-family: 'Arial Black', cursive;
   font-style:italic;
     text-decoration: underline;}
 
-  p,li {font-family:'Times New Roman';
+  p, li {font-family:'Times New Roman';
   color: black;
   font-size:25px;
   text-align:left;
       margin-right:20%;
-    margin-left:20%}
+    margin-left:30%}
 
 /*This was one of my favorite parts*/
 a:link    {color: green;}
