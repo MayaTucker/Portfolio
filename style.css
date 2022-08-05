@@ -17,9 +17,11 @@ html {font-family: 'Arial Black', cursive;
   font-size: 35px; 
   text-align:center;
   font-style:italic;
-  text-decoration: underline;}
+  text-decoration: underline;
+  marginLeft: 30px;
+  marginRight: 30px;}
 
-p,li {font-family:'Times New Roman';
+    p,li {font-family:'Times New Roman';
   color: black;
   font-size:25px;
   text-align:left;}
