@@ -11,15 +11,19 @@ html {font-family: 'Arial Black', cursive;
 
  /* There are so many font choices*/
 
-  h2,h3,h4 {
+  h2,h3 {
   font-family: Rockwell,Book Antiqua;
   color: maroon;
   font-size: 35px; 
   text-align:center;
   font-style:italic;
-  text-decoration: underline;
-  marginLeft: 30px;
-  marginRight: 30px;}
+    text-decoration: underline;}
+
+  h4 {margin-left: 30px;
+  margin-right: 30px;
+  font-family:Rockwell;
+  font-size:30px;
+  }
 
     p,li {font-family:'Times New Roman';
   color: black;
